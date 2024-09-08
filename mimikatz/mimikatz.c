@@ -21,6 +21,7 @@ const KUHL_M * mimikatz_modules[] = {
 	&kuhl_m_token,
 	&kuhl_m_vault,
 	&kuhl_m_minesweeper,
+	&kuhl_m_winmine,
 #if defined(NET_MODULE)
 	&kuhl_m_net,
 #endif

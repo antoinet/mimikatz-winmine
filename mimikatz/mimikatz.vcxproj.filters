@@ -341,6 +341,9 @@
     <ClCompile Include="modules\misc\kuhl_m_misc_citrix.c">
       <Filter>local modules\misc</Filter>
     </ClCompile>
+    <ClCompile Include="modules\kuhl_m_winmine.c">
+      <Filter>local modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mimikatz.h" />
@@ -700,6 +703,9 @@
     </ClInclude>
     <ClInclude Include="modules\misc\kuhl_m_misc_citrix.h">
       <Filter>local modules\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\kuhl_m_winmine.h">
+      <Filter>local modules</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
